@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -42,6 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,7 +62,10 @@
       <workItem from="1665139096650" duration="1422000" />
       <workItem from="1665251443997" duration="621000" />
       <workItem from="1665674901537" duration="5476000" />
-      <workItem from="1666342964782" duration="4177000" />
+      <workItem from="1666342964782" duration="5062000" />
+      <workItem from="1666693691042" duration="664000" />
+      <workItem from="1666894319991" duration="750000" />
+      <workItem from="1666948083974" duration="1656000" />
     </task>
     <servers />
   </component>
