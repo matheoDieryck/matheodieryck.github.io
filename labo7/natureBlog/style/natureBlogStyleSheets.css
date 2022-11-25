@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+    padding: 0px;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+article header{
+    background-color: lightgrey;
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+    height: auto;
+    background-image: url();
+}
+
+nav{
+    background-color: darkgray;
+    
+}
+
+nav a{
+    color:chartreuse;
+}
+header{
+    background-image: url(../image/header.jpg);
+    font-weight: bold;
+    color: white;
+    height: 100px;
+}
+
+
+
+article{
+    background-color: lightgray;
+    padding: 5px;
+    margin-bottom: 5px;
+    
+}
+
+footer{
+    padding-bottom: 5;
+    margin-bottom: 5px;
+}
+
