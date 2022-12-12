@@ -1,0 +1,53 @@
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../fotos/pagebackground.png);
+    font-family: Arial;
+    text-align: center;
+}
+
+#top{
+    height: 200px;
+    background-image: url(../fotos/bgsky3.jpg);
+    position: relative;
+
+    color: darkblue;
+}
+
+#top img{
+    position: absolute;
+    bottom: 60px;
+    right: 250px;
+}
+#top h1{
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#top  p{
+    font-size: 240%;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#news {
+    width: 250px;
+    float: right;
+    background-color: #DDDDDD;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #666666;
+}
+
+#news p {
+    color: #666666;
+    font-size: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#news h3 {
+    
+}

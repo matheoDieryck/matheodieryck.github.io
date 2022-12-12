@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,9 +49,16 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo10" />
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo9\positioneren\absolute-relative-positionering" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +75,8 @@
       <workItem from="1666894319991" duration="750000" />
       <workItem from="1666948083974" duration="1656000" />
       <workItem from="1669312086508" duration="673000" />
+      <workItem from="1669975480623" duration="6768000" />
+      <workItem from="1670580662776" duration="6500000" />
     </task>
     <servers />
   </component>

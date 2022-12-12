@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+article:nth-child(2n+1) img{
+    float: left;
+    margin: 0 0 10px 0
+}
+
+article:nth-child(2n) img{
+    float: right;
+    margin: 0 0 0 10px;
+}

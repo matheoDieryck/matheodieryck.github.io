@@ -1,0 +1,31 @@
+/*
+.box{
+    height: 200px;
+    box-sizing: border-box;
+    border: white 10px solid;
+}
+*/
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+div[class*='col']{
+    height: 200px;
+    box-sizing: border-box;
+    border: white 10px solid;
+    margin-bottom: 15px;
+}
+
+div[class = 'col-md-3']{
+    background: lightgray;
+}
+
+div[class = 'col-md-6']{
+    background: gray;
+}
+
+.top {
+    max-width: 30%;
+}
+
