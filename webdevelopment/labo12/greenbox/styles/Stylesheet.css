@@ -1,0 +1,9 @@
+#greenBlock {
+    width: 500px;
+    height: 300px;
+    background-color: darkseagreen;
+    /* centreer horizontaal */
+    position: absolute;
+    left: calc(50% - (500px/2));
+}
+
