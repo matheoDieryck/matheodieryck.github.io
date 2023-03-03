@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="229ad244-310f-4cde-8d38-ca3fe014bbb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/discordbot/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +61,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment_sem2" />
       <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io" />
       <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo12\columns" />
       <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment_sem2\labo 3" />
       <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment_sem2\labo 3\demo" />
-      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo10" />
     </key>
   </component>
   <component name="RunManager">
@@ -98,7 +100,7 @@
       <workItem from="1671789933796" duration="5224000" />
       <workItem from="1673984138073" duration="1095000" />
       <workItem from="1676036483867" duration="5398000" />
-      <workItem from="1677848804053" duration="11221000" />
+      <workItem from="1677848804053" duration="12411000" />
     </task>
     <servers />
   </component>
