@@ -1,6 +1,8 @@
 const setup = () => {
 
 	let sliders = document.getElementsByClassName("slider");
+	let colorDemos=document.getElementsByClassName("colorDemo");
+	colorDemos[0].style.backgroundColor="rgb("+255+","+0+","+0+")"
 
 	// we moeten zowel op het input als het change event reageren,
 	// zie http://stackoverflow.com/questions/18544890µ
@@ -18,6 +20,10 @@ const update = () => {
 	let green=document.getElementById("sldGreen").value
 	let blue=document.getElementById("sldBlue").value
 	let colorDemos=document.getElementsByClassName("colorDemo");
+    document.getElementById("valueRed").textContent = red;
+	document.getElementById("valueGreen").textContent = green;
+	document.getElementById("valueBlue").textContent = blue;
+
 	colorDemos[0].style.backgroundColor="rgb("+red+","+green+","+blue+")";
 
 
