@@ -1,0 +1,18 @@
+body{
+    background-color: #666666;
+}
+
+.listItemsStyleNone{
+    list-style-type: none   ;
+}
+
+.listItemsStyleDisc{
+    list-style-type: disc   ;
+}
+
+.colorRed
+{background-color: red}
+
+.colorWhite
+{background-blend-mode: normal}
+

@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="229ad244-310f-4cde-8d38-ca3fe014bbb1" name="Changes" comment="" />
+    <list default="true" id="229ad244-310f-4cde-8d38-ca3fe014bbb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demo/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demo/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/paragraaf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/paragraaf/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdevelopment_sem2/labo 3/paragraaf/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,21 +52,34 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathe/OneDrive/Documenten/frontendmentorprofilecardBeginSituatie&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/samuelliefhooge.github.io-main&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io" />
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo12\columns" />
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment_sem2\labo 3" />
+      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment_sem2\labo 3\demo" />
       <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo10" />
-      <recent name="C:\Users\mathe\OneDrive\Documenten\GitHub\matheoDieryck.github.io\webdevelopment\labo9\positioneren\absolute-relative-positionering" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="code.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/scripts/code.js" working-dir="$PROJECT_DIR$/webdevelopment_sem2/labo 3/demonstratie slider/scripts">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.code.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +100,10 @@
       <workItem from="1669975480623" duration="6768000" />
       <workItem from="1670580662776" duration="6500000" />
       <workItem from="1671106673721" duration="191000" />
-      <workItem from="1671789933796" duration="3872000" />
+      <workItem from="1671789933796" duration="5224000" />
+      <workItem from="1673984138073" duration="1095000" />
+      <workItem from="1676036483867" duration="5398000" />
+      <workItem from="1677848804053" duration="9549000" />
     </task>
     <servers />
   </component>
