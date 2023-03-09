@@ -1,0 +1,18 @@
+{
+  "name": "discord.js",
+  "version": "0.0.1",
+  "description": "bot mainly for forged in friendship guild",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\mathe\\OneDrive\\Documenten\\GitHub\\matheoDieryck.github.io\\discordbot"
+  },
+  "author": "teanatt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}

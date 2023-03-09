@@ -1,0 +1,23 @@
+welcome to the code of this discord bot
+for this bot to work you will need to change the config.json file to have your channel and bot id and also the secret token of your bot
+
+to load a command into your bot you will need to run the command : node deploy-commmands.js
+once this is done you can run the command node . and your bot will be running
+
+to make a new command just add a .js file in the commands directory
+
+the template of a new command is :
+const { SlashCommandBuilder } = require('discord.js');
+
+module.exports = {
+	data: new SlashCommandBuilder()
+		.setName('NAME OF YOUR COMMAND')
+		.setDescription('DESCRIPTION OF YOUR COMMAND'),
+	async execute(interaction) {
+		return interaction.reply('WHAT YOUR COMMAND NEEDS TO SEND IN CHAT');
+	},
+};
+
+for more explenation on how those commands work you can get more information on 
+https://discordjs.guide/#before-you-begin 
+all my code is based on this guide
